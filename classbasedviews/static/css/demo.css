@@ -1,0 +1,59 @@
+body{
+background: rgb(75, 84, 136);
+color:yellowgreen;
+    
+}
+h1{
+
+    color:rgb(26, 44, 28);
+    margin: auto;
+    text-align: center;
+    padding: 4px;
+}
+span{
+
+color: red;
+
+}
+.container
+{
+text-align: center;
+display:block;
+padding: 4px;
+margin: 9px;
+}
+.table1
+{
+border: 2px;
+border-color:black;
+margin: 2px;
+padding: 20px;
+margin: auto;
+
+}
+a:link {
+    background-color:black;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  a:visited {
+    background-color:black;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: yellow;
+  }
+tr,td{
+
+    margin: 2px;
+    padding: 2px;
+
+}
